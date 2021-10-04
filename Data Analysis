@@ -1,0 +1,5 @@
+1.From the web UI there will be a back end API and using the spark processing engine we can process the data to and from the server.
+2. Spark Transformations:
+   created an DataFrame to load the same data using the Data API performed Transformations on to the data.
+3. From the web UI the the customers can interact using the backend REST API or also using the Data bricks with Data frame or dataSet API
+   the customers can interact these uses the Spark engine for processing.
